@@ -12,6 +12,8 @@ Search and Extract Data: You can use Beautiful Soup to search for specific eleme
 
 Manipulate Data: Once you've located the desired elements, Beautiful Soup allows you to extract and manipulate the data contained within those elements.
 
+![Home Sales](https://media.bizj.us/view/img/2440871/home-for-sale-sold-sign-stucco*1200xx3456-1950-0-171.jpg)
+
 # Home Sales Data Scraping
 To scrape home sales data from a website using BeautifulSoup, you typically follow these steps:
 

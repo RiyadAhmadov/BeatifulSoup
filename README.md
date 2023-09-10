@@ -1,6 +1,6 @@
 # Beautiful Soup
 
-![Beautiful Soup](https://community-cdn-digitalocean-com.global.ssl.fastly.net/TnmVb22Ayu65PHezWt2UVJLh)
+![Beautiful Soup](https://cdn.hackersandslackers.com/2020/11/beautifulsoup.jpg)
 
 Beautiful Soup is a Python library used for web scraping purposes. It is designed to parse HTML and XML documents, making it easier to extract specific data from web pages. Beautiful Soup provides a straightforward and Pythonic way to navigate and search through the elements in a parsed HTML or XML document.
 
